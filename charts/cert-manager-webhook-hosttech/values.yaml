@@ -14,7 +14,6 @@ certManager:
 
 image:
   repository: piccobit/cert-manager-webhook-hosttech
-  tag: latest
   pullPolicy: IfNotPresent
 
 nameOverride: ""
