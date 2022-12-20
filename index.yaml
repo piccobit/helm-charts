@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-hosttech:
+  - apiVersion: v1
+    appVersion: v0.1.3
+    created: "2022-12-20T16:43:04.758224639Z"
+    description: Allow cert-manager to solve DNS challenges using hosttech DNS API
+    digest: 668d6f27d76186e7c5d1884fdf3aee41d0ed692ef600f990478757207c23bad7
+    name: cert-manager-webhook-hosttech
+    urls:
+    - https://github.com/piccobit/helm-charts/releases/download/cert-manager-webhook-hosttech-v0.1.4/cert-manager-webhook-hosttech-v0.1.4.tgz
+    version: v0.1.4
+generated: "2022-12-20T16:43:04.758230739Z"
