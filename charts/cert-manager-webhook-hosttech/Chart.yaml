@@ -1,7 +1,7 @@
 ---
 apiVersion: v1
-appVersion: v0.2.1
+appVersion: 0.2.1
 description: Allow cert-manager to solve DNS challenges using hosttech DNS API
 name: cert-manager-webhook-hosttech
-version: v0.2.1
+version: 0.2.1
 ...
