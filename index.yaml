@@ -8,7 +8,7 @@ entries:
     digest: 5ec819d04df55a7b264343c0047625d64cea1f5770e44d1d18103ca4438ccfcb
     name: cert-manager-webhook-hosttech
     urls:
-    - https://github.com/piccobit/helm-charts/releases/download/cert-manager-webhook-hosttech-0.3.0/cert-manager-webhook-hosttech-0.3.0.tgz
+    - https://github.com/piccobit/stich.io/releases/download/cert-manager-webhook-hosttech-0.3.0/cert-manager-webhook-hosttech-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.2.1
@@ -17,6 +17,6 @@ entries:
     digest: a4ff30f595a45999a3b4bb99c5b1a9fa41475ed3bd3ba0b17347d6462843cc45
     name: cert-manager-webhook-hosttech
     urls:
-    - https://github.com/piccobit/helm-charts/releases/download/cert-manager-webhook-hosttech-0.2.1/cert-manager-webhook-hosttech-0.2.1.tgz
+    - https://github.com/piccobit/stich.io/releases/download/cert-manager-webhook-hosttech-0.2.1/cert-manager-webhook-hosttech-0.2.1.tgz
     version: 0.2.1
 generated: "2022-12-28T11:40:33.610120583Z"
